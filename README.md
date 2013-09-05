@@ -25,8 +25,8 @@ With this information you're able to create a HTTP GET request to get access to 
 
 The following table shows you the possible parameters you can use.
 
-| Type | Parameters | Demand side | Supply Side |
-| ---- | ---------- | ----------- | ----------- |
+| Parameter | Value | Demand side | Supply Side |
+| --------- | ----- | ----------- | ----------- |
 | Granularity | all | x | x | 
 | Granularity | day | x | x |
 | Granularity | hour | x | x |
